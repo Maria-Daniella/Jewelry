@@ -202,7 +202,7 @@ a:hover {
 	width: 20px;
 	height: 20px;
 	margin: 5px 12px 0 0;
-	background: url(../images/ico_header.png) no-repeat;
+	background: url(ico_header.png) no-repeat;
 }
 
 #header .right-links span.ico-account {
@@ -278,7 +278,7 @@ a:hover {
 	content: "";
 	margin: 13px 13px 0 15px;
 	float: left;
-	background: url(../images/ico_arrow.png) no-repeat;
+	background: url(ico_arrow.png) no-repeat;
 	width: 9px;
 	height: 5px;
 }
@@ -469,7 +469,7 @@ a:hover {
 	right: 0;
 	margin: 11px 17px;
 	top: 0;
-	background: url(../images/ico_arrows.png) no-repeat 100% 0;
+	background: url(ico_arrows.png) no-repeat 100% 0;
 	width: 8px;
 	height: 16px;
 	display: block;
@@ -492,7 +492,7 @@ a:hover {
 	left: 0;
 	margin: 11px 17px;
 	top: 0;
-	background: url(../images/ico_arrows.png) no-repeat;
+	background: url(ico_arrows.png) no-repeat;
 	width: 8px;
 	height: 16px;
 	display: block;
@@ -792,7 +792,7 @@ h1 {
 	margin: auto;
 	display: block;
 	height: 27px;
-	background: #666668 url(../images/ico_cross.png) no-repeat 50% 50%;
+	background: #666668 url(ico_cross.png) no-repeat 50% 50%;
 }
 
 .cart-table .ico-del:hover{
@@ -822,7 +822,7 @@ h1 {
 	right: 13px;
 	width: 10px;
 	height: 5px;
-	background: url(../images/ico_down.png) no-repeat;
+	background: url(ico_down.png) no-repeat;
 }
 
 .crf-sm li {
@@ -1012,7 +1012,7 @@ h1 {
 
 .pagination span {
 	display: inline-block;
-	background: url(../images/ico_pagination.png) no-repeat;
+	background: url(ico_pagination.png) no-repeat;
 	width: 30px;
 	height: 30px;
 	margin: 1px;
@@ -1108,7 +1108,7 @@ h1 {
 }
 
 #sidebar label.checked:before {
-	background: #222 url(../images/ico_cross.png) no-repeat 50% 50%;
+	background: #222 url(ico_cross.png) no-repeat 50% 50%;
 }
 
 #sidebar label {
@@ -1148,7 +1148,7 @@ h1 {
 
 #footer {
 	clear: both;
-	background: #222224 url(../images/bg_footer.png);
+	background: #222224 url(bg_footer.png);
 	padding: 27px 0 0;
 	color: #a5a5aa;
 	font-size: 14px;
@@ -1170,7 +1170,7 @@ h1 {
 
 #footer .ico {
 	display: inline-block;
-	background: url(../images/ico_footer.png);
+	background: url(ico_footer.png);
 	width: 19px;
 	height: 19px;
 	margin: -5px 10px -5px 0;
@@ -1235,7 +1235,7 @@ h1 {
 	top: 4px;
 	right: 4px;
 	border: 0;
-	background: #b8bcbe url(../images/ico_plus.png) no-repeat 50% 50%;
+	background: #b8bcbe url(ico_plus.png) no-repeat 50% 50%;
 }
 
 #footer form button:hover{
@@ -1298,61 +1298,61 @@ h1 {
 
 @font-face {
 	font-family: 'Novecentowide';
-    src: url('../fonts/Novecentowide-Bold.eot');
-    src: url('../fonts/Novecentowide-Bold.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Novecentowide-Bold.woff') format('woff'),
-         url('../fonts/Novecentowide-Bold.ttf') format('truetype'),
-         url('../fonts/Novecentowide-Bold.svg#Novecentowide-Bold') format('svg');
+    src: url('Novecentowide-Bold.eot');
+    src: url('Novecentowide-Bold.eot?#iefix') format('embedded-opentype'),
+         url('Novecentowide-Bold.woff') format('woff'),
+         url('Novecentowide-Bold.ttf') format('truetype'),
+         url('Novecentowide-Bold.svg#Novecentowide-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
 	font-family: 'Novecentowide';
-    src: url('../fonts/Novecentowide-Book.eot');
-    src: url('../fonts/Novecentowide-Book.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Novecentowide-Book.woff') format('woff'),
-         url('../fonts/Novecentowide-Book.ttf') format('truetype'),
-         url('../fonts/Novecentowide-Book.svg#Novecentowide-Book') format('svg');
+    src: url('Novecentowide-Book.eot');
+    src: url('Novecentowide-Book.eot?#iefix') format('embedded-opentype'),
+         url('Novecentowide-Book.woff') format('woff'),
+         url('Novecentowide-Book.ttf') format('truetype'),
+         url('Novecentowide-Book.svg#Novecentowide-Book') format('svg');
     font-weight: 200;
     font-style: normal;
 }
 @font-face {
 	font-family: 'Novecentowide';
-    src: url('../fonts/Novecentowide-Medium.eot');
-    src: url('../fonts/Novecentowide-Medium.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Novecentowide-Medium.woff') format('woff'),
-         url('../fonts/Novecentowide-Medium.ttf') format('truetype'),
-         url('../fonts/Novecentowide-Medium.svg#Novecentowide-Medium') format('svg');
+    src: url('Novecentowide-Medium.eot');
+    src: url('Novecentowide-Medium.eot?#iefix') format('embedded-opentype'),
+         url('Novecentowide-Medium.woff') format('woff'),
+         url('Novecentowide-Medium.ttf') format('truetype'),
+         url('Novecentowide-Medium.svg#Novecentowide-Medium') format('svg');
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
 	font-family: 'Novecentowide';
-    src: url('../fonts/Novecentowide-Normal.eot');
-    src: url('../fonts/Novecentowide-Normal.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Novecentowide-Normal.woff') format('woff'),
-         url('../fonts/Novecentowide-Normal.ttf') format('truetype'),
-         url('../fonts/Novecentowide-Normal.svg#Novecentowide-Normal') format('svg');
+    src: url('Novecentowide-Normal.eot');
+    src: url('Novecentowide-Normal.eot?#iefix') format('embedded-opentype'),
+         url('Novecentowide-Normal.woff') format('woff'),
+         url('Novecentowide-Normal.ttf') format('truetype'),
+         url('Novecentowide-Normal.svg#Novecentowide-Normal') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
 	font-family: 'Novecentowide';
-    src: url('../fonts/Novecentowide-DemiBold.eot');
-    src: url('../fonts/Novecentowide-DemiBold.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Novecentowide-DemiBold.woff') format('woff'),
-         url('../fonts/Novecentowide-DemiBold.ttf') format('truetype'),
-         url('../fonts/Novecentowide-DemiBold.svg#Novecentowide-DemiBold') format('svg');
+    src: url('Novecentowide-DemiBold.eot');
+    src: url('Novecentowide-DemiBold.eot?#iefix') format('embedded-opentype'),
+         url('Novecentowide-DemiBold.woff') format('woff'),
+         url('Novecentowide-DemiBold.ttf') format('truetype'),
+         url('Novecentowide-DemiBold.svg#Novecentowide-DemiBold') format('svg');
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
 	font-family: 'Novecentowide';
-    src: url('../fonts/Novecentowide-Light.eot');
-    src: url('../fonts/Novecentowide-Light.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Novecentowide-Light.woff') format('woff'),
-         url('../fonts/Novecentowide-Light.ttf') format('truetype'),
-         url('../fonts/Novecentowide-Light.svg#Novecentowide-Light') format('svg');
+    src: url('Novecentowide-Light.eot');
+    src: url('Novecentowide-Light.eot?#iefix') format('embedded-opentype'),
+         url('Novecentowide-Light.woff') format('woff'),
+         url('Novecentowide-Light.ttf') format('truetype'),
+         url('Novecentowide-Light.svg#Novecentowide-Light') format('svg');
     font-weight: 300;
     font-style: normal;
 }
@@ -1364,22 +1364,22 @@ h1 {
 @media (-webkit-min-device-pixel-ratio: 2), (min-reso#lution: 192dpi) { 
 
 	#logo {
-		background-image: url(../images/logo@2x.png);
+		background-image: url(logo@2x.png);
 		background-size: cover;
 	}
 
 	#header .right-links span {
-		background-image: url(../images/ico_header@2x.png);
+		background-image: url(ico_header@2x.png);
 		background-size: 60px 20px;
 	}
 
 	#footer .ico {
-		background-image: url(../images/ico_footer@2x.png);
+		background-image: url(ico_footer@2x.png);
 		background-size: 19px 114px;
 	}
 
 	#breadcrumbs li + li:before {
-		background-image: url(../images/ico_arrow@2x.png);
+		background-image: url(ico_arrow@2x.png);
 		background-size: cover;
 	}
 
@@ -1394,18 +1394,18 @@ h1 {
 	}
 
 	.pagination span {
-		background-image: url(../images/ico_pagination@2x.png);
+		background-image: url(ico_pagination@2x.png);
 		background-size: 60px 30px;
 	}
 
 	#sidebar label.checked:before {
-		background-image: url(../images/ico_cross@2x.png);
+		background-image: url(ico_cross@2x.png);
 		background-size: 11px 11px;
 	}
 
 	.last-products .bx-next:after,
 	.last-products .bx-prev:after {
-		background-image: url(../images/ico_arrows@2x.png);
+		background-image: url(ico_arrows@2x.png);
 		background-size: 16px 16px;
 	}
 }
@@ -1661,7 +1661,7 @@ h1 {
 		top: 20px;
 		right: 10px;
 		cursor: pointer;
-		background: url(../images/btn_mobile_menu.png) no-repeat 50% 50%;
+		background: url(btn_mobile_menu.png) no-repeat 50% 50%;
 	}
 
 	#menu ul {
