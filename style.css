@@ -35,9 +35,9 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-
 img {
 	vertical-align: middle;
+	width: 100%;
 }
 
 ol, ul {
